@@ -1,6 +1,6 @@
 FROM ruby:2.4-slim-stretch
 
-LABEL maintainer="david.heryanto@hotmail.com"
+LABEL maintainer="support@statsmore.com"
 
 COPY build-static-doc /usr/bin/
 
